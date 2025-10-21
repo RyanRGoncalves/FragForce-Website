@@ -13,3 +13,14 @@ h1{
 header{
     background-color: green;
 }
+footer{
+    background-color: green;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+address{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
